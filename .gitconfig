@@ -1,0 +1,15 @@
+[user]
+	name = [your-name]
+	email = [your-git-email]
+[alias]
+	a = add
+	aa = add .
+	b = branch
+	co = checkout
+	cm = commit -m
+	m = merge
+	p = push origin
+	pm = push origin master
+	pl = pull origin
+	plm = pull origin master
+	s = status
